@@ -1,0 +1,4 @@
+*.pyc
+settings.py
+listeverything3/settings.py
+*.db
